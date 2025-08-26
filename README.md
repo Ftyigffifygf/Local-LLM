@@ -46,4 +46,4 @@ This project is licensed under the GPL-3.0 License.
 
 ---
 
-If you’d like to customize this README further—like adding usage examples, model integration steps, or contributor guidelines—I’d be happy to help. Just let me know what direction you want to take it!
+
