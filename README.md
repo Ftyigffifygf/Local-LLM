@@ -1,8 +1,4 @@
-The GitHub repository [Local-LLM](https://github.com/Ftyigffifygf/Local-LLM) currently does **not include a README file**, although the platform suggests adding one to help others understand the project. That said, I can help you **draft a README** based on the structure and files present in the repo.
 
-Here’s a suggested README template based on what’s visible:
-
----
 
 # Local-LLM
 
